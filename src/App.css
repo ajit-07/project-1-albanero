@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+h1{
+  color: rgb(130, 130, 238);
+}
+.show-time{
+  padding: 20px;
+}
+.main-div{
+  padding: 50px;
+}
+
+.show-div-width{
+  background-color: rgb(238, 238, 60);
+  height: 300px;
+}
